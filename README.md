@@ -1,4 +1,4 @@
-<h1 align="center"> Nitin's  `template`</h1>
+<h1 align="center"> Blog </h1>
 
 ## vercel
 >  `Deploy` `vercel`
