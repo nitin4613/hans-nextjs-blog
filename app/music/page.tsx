@@ -21,9 +21,7 @@ export default function Page() {
       <Divider />
       <div className="prose max-w-none dark:prose-dark lg:prose-lg">
         <p>
-          Starting from 2023, I've developed a habit of creating a playlist every month and adding
-          the songs I've been listening to during that month. Music holds memories, so this serves
-          as a way to review specific periods of time.
+          
         </p>
         <h2>2023</h2>
         {playlists.map((playlist) => {

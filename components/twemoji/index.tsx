@@ -1,5 +1,4 @@
 import Dog from './dog.svg'
-import ChinaFlag from './china-flag.svg'
 import Congrats from './congrats.svg'
 import PartyingFace from './partying-face.svg'
 

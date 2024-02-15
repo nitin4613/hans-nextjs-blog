@@ -1,8 +1,8 @@
 const headerNavLinks = [
-  // { href: '/about', title: 'About' },
-  { href: 'https://gallery.hansking.cn', title: 'Gallery' },
+  { href: '/Journey', title: 'Journey' },
+  { href: 'https://gallery.nitin.dev', title: 'Gallery' },
   { href: '/blog', title: 'Blog' },
-  { href: '/plog', title: 'Plog' },
+  { href: '/Vlog', title: 'Vlog' },
   { href: '/resume', title: 'Résumé' },
 ]
 

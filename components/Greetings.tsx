@@ -14,10 +14,10 @@ const Greetings = () => {
   React.useEffect(() => {
     const options = {
       strings: [
-        'Like Web from 2018.',
-        'I was raised in Tianjin.',
-        'I like 🏊‍♂️ / 🏃 / 🏸.',
-        'I like G·E·M. 🎤',
+        'Currently in Tracy,CA',
+        'I was raised in New Delhi.',
+        'I like talking tech to people',
+        'Follow along on my journey',
         '...',
       ],
       typeSpeed: 50,
@@ -52,18 +52,18 @@ const Greetings = () => {
           <br />
 
           <p>
-            This website is used to introduce myself, publish some regular blogs, document my travel
-            diaries, as well as record books, movies, and music I've experienced. Feel free to{' '}
+          Welcome to my digital corner! This website is my personal canvas, where I paint the picture of my professional journey, share insights through regular blog posts, 
+          and bring my travel adventures to life.  Feel free to{' '}
             <Link href="/about"> get to know me better.</Link>
           </p>
         </div>
       </div>
       {/* NewBlogButton */}
-      <Tooltip title="新的一天~ 记录一下." trigger="hover">
+      <Tooltip title="" trigger="hover">
         <Link
           className="fixed bottom-40 sm:bottom-20 right-8 cursor-pointer hover:shadow-lg hover:brightness-125"
           target="_blank"
-          href={`https://github.com/HansKing98/hans-nextjs-blog/new/main/data/posts/2024`}
+          href={``}
         >
           <Image src="/button/add.svg" className="w-24 sm:w-32" alt="" width={140} height={30} />
         </Link>

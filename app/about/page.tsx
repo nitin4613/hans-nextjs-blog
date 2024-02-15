@@ -11,7 +11,7 @@ export default function About() {
     <>
       <div className="prose max-w-none dark:prose-dark lg:prose-lg">
         {/*<p>*/}
-        {/*  Hi, my name is <b>Zhou Zihang</b>. I'm a computer science student now.*/}
+        {/*  Hi, my name is <b>Nitin Kuriakose</b>. I'm a Solutions Engineer*/}
         {/*</p>*/}
 
         <h2>Travel Journey</h2>
@@ -41,9 +41,9 @@ export default function About() {
 
         <h2>About This Site</h2>
         <div>
-          <GitHubCard repo="hansking98/hans-nextjs-blog" />
+          <GitHubCard repo="nitin4613" />
           <div>
-            It's hosted on <a href="https://vercel.com">Vercel</a> and built with{' '}
+            It's hosted on <a href="https://aws.com">Vercel</a> and built with{' '}
             <a href="https://nextjs.org">
               <i className="inline-block">
                 <NextJS className="h-6 w-6" />
